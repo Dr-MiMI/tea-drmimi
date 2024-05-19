@@ -1,0 +1,24 @@
+{
+  "name": "tea-drmimi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dr-MiMI/tea-drmimi.git"
+  },
+  "keywords": [
+    "tea",
+    "drmimi"
+  ],
+  "author": "drmimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dr-MiMI/tea-drmimi/issues"
+  },
+  "homepage": "https://github.com/Dr-MiMI/tea-drmimi#readme",
+  "source": "https://github.com/Dr-MiMI/tea-drmimi.git"
+}
